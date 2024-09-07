@@ -1,6 +1,5 @@
-# Hey Everyone
+## Dynamic-Chart-Explorer
 
-This is the repo for your js minor project of GDSC PU 2023-24 Web Cohort.
 It utilizes [Chart.js](https://www.chartjs.org/docs/latest/) via CDN to render charts based on user input values.
 
 1. Bar Chart
