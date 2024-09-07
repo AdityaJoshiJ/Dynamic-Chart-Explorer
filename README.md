@@ -9,7 +9,7 @@ It utilizes [Chart.js](https://www.chartjs.org/docs/latest/) via CDN to render c
 
 Clone this repo locally using: (pre-requisite: git installed)
 
-git clone [https://github.com/Atharva-3000/GDSC-Cohort](https://github.com/Atharva-3000/GDSC-Cohort)
+git clone [https://github.com/Dynemic-chart-Explorer](https://github.com/AdityJoshiJ/Dynemic-chart-Explorer)
 
 
 ## Images
